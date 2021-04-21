@@ -19,12 +19,13 @@ https://youtu.be/Uf3hsD25yuE
 ```
 1. Muhammad 'Afif Hazim bin Mat Najib       1811167
 - Everything in add course file except drop and display
-- Help syahril with drop course (finding specific value property from the object in array using loop)
+- Help syahril with drop course (finding specific value of a property from an object in array using loop)
 - app.js styles
 
 2. Ahmad syahril danial bin che zainal      1812603
 - Drop course function
 - Display course function
+- Edit and upload presentation video
 
 3. Muhammad Farhan bin Jamal                1611595
 - Login function and page

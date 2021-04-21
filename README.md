@@ -1,10 +1,9 @@
 # MobileApps-CaseStudy
+## Group Name: Group D
 ## Course Scheduling System
 
 ## YouTube Presentation video link
 https://youtu.be/Uf3hsD25yuE
-
-## Group Name: Group D
 
 ## Group Members:
 ```

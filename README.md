@@ -12,13 +12,36 @@
 5. Mohammad Fitri Aiman bin Mohammad Azli   1810925
 ```
 
-## Assigned tasks for each member
+## Assigned tasks for each member:
 ```
 1. Muhammad 'Afif Hazim bin Mat Najib       1811167
+- Everything in add course file except drop and display
+- Help syahril with drop course (finding specific value property from the object in array using loop)
+- app.js styles
+
 2. Ahmad syahril danial bin che zainal      1812603
+- Drop course function
+- Display course function
+
 3. Muhammad Farhan bin Jamal                1611595
+- Login function and page
+- Login.js styles
+
 4. Ahmad Naufal Ibad bin Mohd Lazim         1910457
+- Register function and page
+- Register.js styles
+
 5. Mohammad Fitri Aiman bin Mohammad Azli   1810925
+- Some part in display course function
+- presentation video
+- compilation
+- creating github repository
 ```
 
 ## Brief Description of the case study
+This app consist of several functions that helps in adding courses (ril ko tambahkan la benda ni)
+
+## Presentation video link
+
+
+

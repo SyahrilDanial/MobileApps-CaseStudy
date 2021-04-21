@@ -1,6 +1,9 @@
 # MobileApps-CaseStudy
 ## Course Scheduling System
 
+## YouTube Presentation video link
+https://youtu.be/Uf3hsD25yuE
+
 ## Group Name: Group D
 
 ## Group Members:
@@ -40,8 +43,6 @@
 
 ## Brief Description of the case study
 This app consist of several functions that helps in adding courses (ril ko tambahkan la benda ni)
-
-## Presentation video link
 
 
 

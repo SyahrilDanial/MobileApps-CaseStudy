@@ -42,7 +42,10 @@ https://youtu.be/Uf3hsD25yuE
 ```
 
 ## Brief Description of the case study
-This app consist of several functions that helps in adding courses (ril ko tambahkan la benda ni)
+This app consist of several functions that helps in adding courses. Any alteration function such as drop  
+and view registered courses are also added into this app for the user to easily make any alterations on  
+their schedule as well as view any changes made by them before they finalize the schedule.
+
 
 
 

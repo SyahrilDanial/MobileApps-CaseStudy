@@ -28,7 +28,7 @@ class AddCourse extends Component {
     };
   }
 
-  //Muhammad 'Afif Hazim bin Mat Najib
+  //Muhammad 'Afif Hazim bin Mat Najib 1811167
   addCourse = () => {
     var addCourse = {
       courseCode: this.state.courseCode,

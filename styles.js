@@ -1,3 +1,5 @@
+// Muhammad 'Afif Hazim bin Mat Najib 1811167
+
 import { StyleSheet, } from 'react-native';
 
 const styles = StyleSheet.create({

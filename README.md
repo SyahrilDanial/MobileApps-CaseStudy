@@ -2,10 +2,10 @@
 ## Group Name: Group D
 ## Course Scheduling System
 
-## YouTube Presentation video link
+### YouTube Presentation video link
 https://youtu.be/Uf3hsD25yuE
 
-## Group Members:
+### Group Members:
 ```
 1. Muhammad 'Afif Hazim bin Mat Najib       1811167
 2. Muhammad Farhan bin Jamal                1611595
@@ -14,7 +14,7 @@ https://youtu.be/Uf3hsD25yuE
 5. Mohammad Fitri Aiman bin Mohammad Azli   1810925
 ```
 
-## Assigned tasks for each member:
+### Assigned tasks for each member:
 ```
 1. Muhammad 'Afif Hazim bin Mat Najib       1811167
 - Everything in add course file except drop and display
@@ -41,10 +41,8 @@ https://youtu.be/Uf3hsD25yuE
 - creating github repository
 ```
 
-## Brief Description of the case study
-This app consist of several functions that helps in adding courses. Any alteration function such as drop  
-and view registered courses are also added into this app for the user to easily make any alterations on  
-their schedule as well as view any changes made by them before they finalize the schedule.
+### Brief Description of the case study
+This app consist of several functions that helps in adding courses. Any alteration function such as drop and view registered courses are also added into this app for the user to easily make any alterations on their schedule as well as view any changes made by them before they finalize the schedule.
 
 
 

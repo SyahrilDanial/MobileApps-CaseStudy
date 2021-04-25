@@ -36,7 +36,6 @@ https://youtu.be/Uf3hsD25yuE
 
 5. Mohammad Fitri Aiman bin Mohammad Azli   1810925
 - Some part in display course function
-- presentation video
 - compilation
 - creating github repository
 ```
